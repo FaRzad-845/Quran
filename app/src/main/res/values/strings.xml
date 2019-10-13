@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quran</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="left_switch">ترتیل</string>
+    <string name="right_switch">تحدیر</string>
+</resources>
